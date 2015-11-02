@@ -18,7 +18,7 @@ Reports on the following classes of vulnerability are eligible for reward, unles
 The following vulnerability types have already been reported and triaged, and won't be fixed. Please do not report any of the following issues.
 
 * Any issue where a store administrator is able to insert javascript in the storefront area of their own store, including the checkout pages.
-* Any issue related to the storefront area being displayed in a <iframe> element in the admin area.
+* Any issue related to the storefront area being displayed in a \<iframe\> element in the admin area.
 * Any issue related to execution of javascript in the Rich Text Editor (for example, when editing the description of a product).
 * Arbitrary file upload to the Ecwid CDN.
 * CSRF access to modify cart.
