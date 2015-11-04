@@ -51,3 +51,7 @@ The following rules must be followed in order for any rewards to be paid:
 * You must not attempt to gain access to, or interact with, any shops other than those created by you.
 * Rules for reporting must be followed.
 * Allow a reasonable amount of time for Ecwid to respond to your vulnerability report before publishing details of your exploit.
+
+## Contact
+
+For submission please contact us at whitehat AT ecwid.com
