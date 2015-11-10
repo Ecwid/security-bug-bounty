@@ -13,7 +13,8 @@ Reports on the following classes of vulnerability are eligible for reward, unles
 * Circumvention of permission model for apps or admin users.
 * Cross-site request forgery.
 * Cross-site scripting - See the next section for limitations.
-* Known issues or previously reported vulnerabilities.
+
+## Known issues or previously reported vulnerabilities.
 
 The following reports are not considered as vulnerabilities or are not subject of this bug bountry program.
 Please do not report any of the following issues.
