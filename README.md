@@ -29,6 +29,7 @@ Please do not report any of the following issues.
 * Password reset tokens don’t expire when changing email address.
 * Tab nabbing.
 * Issues with the SPF, DKIM or DMARC records on Ecwid.com or other Ecwid domains (sometimes reported as email spoofing).
+* Mail system abuse.
 * XSS that requires full control of a http header, such as Referer, Host, etc.
 * User enumeration.
 
