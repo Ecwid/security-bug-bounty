@@ -32,6 +32,7 @@ Please do not report any of the following issues.
 * Mail system abuse.
 * XSS that requires full control of a http header, such as Referer, Host, etc.
 * User enumeration.
+* There's no "X-Content-Type-Options" HTTP header with nosniff value, which can lead to Content Sniffing.
 
 ## Ineligible vulnerability types.
 
