@@ -25,7 +25,7 @@ Please do not report any of the following issues.
 * Arbitrary file upload to the Ecwid CDN.
 * CSRF access to modify cart.
 * Insecure cookie handling for non-sensitive cookies.
-* CSRF for Login or Logout.
+* CSRF for Login, Logout and Signup pages.
 * Password reset tokens don’t expire when changing email address.
 * Tab nabbing.
 * Issues with the SPF, DKIM or DMARC records on Ecwid.com or other Ecwid domains (sometimes reported as email spoofing).
