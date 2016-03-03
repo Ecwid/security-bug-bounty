@@ -40,6 +40,7 @@ Ecwid does not consider the following to be eligible vulnerabilities under this 
 
 * Denial of Service
 * Social Engineering, including phishing
+* Performing malicious activity via specially-crafted page with Ecwid Control Panel embedded in iframe
 * Vulnerabilities in other Ecwid Inc. web sites or applications
 * Failure to implement security best practices such as rate limiting, minimum password strength, and mobile binary protection
 * Some server configuration issues
