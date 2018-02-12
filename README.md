@@ -1,6 +1,6 @@
-# Ecwid bug bounty program.
+# Ecwid bug bounty program
 
-## Eligibility.
+## Eligibility
 
 The scope of the whitehat program is limited to Ecwid shops, their admin and their API. This means your whitehat development shop hosted at [your-shop].ecwid.com
 
@@ -14,7 +14,7 @@ Reports on the following classes of vulnerability are eligible for reward, unles
 * Cross-site request forgery.
 * Cross-site scripting - See the next section for limitations.
 
-## Known issues or previously reported vulnerabilities.
+## Known issues or previously reported vulnerabilities
 
 The following reports are not considered as vulnerabilities or are not subject of this bug bountry program.
 Please do not report any of the following issues.
@@ -35,7 +35,7 @@ Please do not report any of the following issues.
 * There's no "X-Content-Type-Options" HTTP header with nosniff value, which can lead to Content Sniffing.
 * Content Spoofing on error and restore password page.
 
-## Ineligible vulnerability types.
+## Ineligible vulnerability types
 
 Ecwid does not consider the following to be eligible vulnerabilities under this program:
 
@@ -47,7 +47,7 @@ Ecwid does not consider the following to be eligible vulnerabilities under this 
 * Any issue in a mobile application that can only be exploited on a rooted or jailbroken device, that depends on physical access to the device or debug access being enabled, or that depends on a vulnerability in the operating system.
 * Architectural decisions knowingly made by Ecwid are not considered as valid submissions to the whitehat program even if there may be a more secure alternative configuration. For example, reporting that www.ecwid.com is not using the https protocol will fall in this category. In general, issues that fall in this category will be rejected if we do not plan to implement a fix for them.
 
-## Rules for participation.
+## Rules for participation
 
 The following rules must be followed in order for any rewards to be paid:
 
