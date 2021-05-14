@@ -41,7 +41,6 @@ Ecwid does not consider the following to be eligible vulnerabilities under this 
 
 * Denial of Service
 * Social Engineering, including phishing
-* Performing malicious activity via specially-crafted page with Ecwid Control Panel embedded in iframe
 * Vulnerabilities in other Ecwid Inc. web sites or applications
 * Failure to implement security best practices such as rate limiting, minimum password strength, and mobile binary protection
 * Any issue in a mobile application that can only be exploited on a rooted or jailbroken device, that depends on physical access to the device or debug access being enabled, or that depends on a vulnerability in the operating system.
